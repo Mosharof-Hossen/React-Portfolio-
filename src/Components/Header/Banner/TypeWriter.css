@@ -1,0 +1,8 @@
+.type{
+    border-radius: 5px;
+    margin-top: 60px;
+    background-color: rgba(255,247,176,.6);
+    color:  #3A4256;
+    padding:5px;
+    font-weight: bold;
+}

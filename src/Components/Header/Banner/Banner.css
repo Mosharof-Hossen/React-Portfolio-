@@ -1,0 +1,18 @@
+.banner-container{
+    height : 700px;
+    align-items: center;
+    box-sizing: border-box;
+}
+.banner-info{
+    height: 700px;
+}
+.banner-info h1{
+    font-size:3.3rem;
+    font-weight: bold;
+    color : #3A4256;
+    font-family: "Grandstander",cursive;
+    
+}
+.social-Link{
+    margin-top: 120px;
+}
